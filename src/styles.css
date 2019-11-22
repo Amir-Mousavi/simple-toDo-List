@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+}
+
+.filters {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 10px;
+}
+
+.filterButton {
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+h4 {
+  margin-right: 10px;
+  max-height: 5px;
+}
